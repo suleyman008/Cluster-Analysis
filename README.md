@@ -11,3 +11,5 @@ We start by gathering and preprocessing the dataset, ensuring that it is clean, 
 
 ## Clustering Techniques: 
 We apply clustering techniques, including hierarchical clustering using dendrogram and agglomerative clustering, to segment the data into meaningful clusters.
+
+![Image](https://github.com/suleyman008/Cluster-Analysis/assets/128426161/45617ca4-d212-4a57-a208-902a7b6c461a)
