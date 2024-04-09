@@ -13,3 +13,7 @@ We start by gathering and preprocessing the dataset, ensuring that it is clean, 
 We apply clustering techniques, including hierarchical clustering using dendrogram and agglomerative clustering, to segment the data into meaningful clusters.
 
 ![Image](https://github.com/suleyman008/Cluster-Analysis/assets/128426161/45617ca4-d212-4a57-a208-902a7b6c461a)
+
+Hierarchical clustering groups similar items into clusters and visualizes them using a dendrogram. It starts by considering each data point as a separate cluster, then iteratively merges the closest clusters based on their similarity. This process creates a tree-like structure where the height of each merge in the dendrogram represents the distance between clusters. Cutting the dendrogram at a certain height determines the number of clusters. Overall, hierarchical clustering and dendrograms offer an intuitive way to explore data similarity and discover natural groupings.
+
+![Image 1](https://github.com/suleyman008/Cluster-Analysis/assets/128426161/3e68d63e-4c7d-438d-969b-a86ac7ae9525)
