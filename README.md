@@ -1,3 +1,7 @@
 # Clustering Analysis
 
-Clustering Analysis for Creating Dependent VariablesDescription: Welcome to our clustering analysis project! This project focuses on utilizing clustering techniques to create dependent variables or segments within a dataset. Clustering, a form of unsupervised learning, allows us to group similar data points together based on certain characteristics or features. In this project, we aim to identify meaningful clusters within our dataset, which can then serve as dependent variables for further analysis or modeling.
+The project focuses on utilizing clustering techniques to create dependent variables or segments within a dataset. Clustering, a form of unsupervised learning, allows us to group similar data points together based on certain characteristics or features. In this project, we aim to identify meaningful clusters within our dataset, which can then serve as dependent variables for further analysis or modeling.
+
+##Objective: 
+
+The primary objective of this project is to apply clustering algorithms to our dataset in order to create distinct groups or clusters of data points. These clusters can then be used as dependent variables in subsequent analyses, such as predictive modeling, targeted marketing, or anomaly detection.
